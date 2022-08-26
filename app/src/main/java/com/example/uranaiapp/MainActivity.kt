@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         val tv:TextView  = findViewById(R.id.uranaiText)
         val btn:Button = findViewById(R.id.uranaiBtn)
 
-
+        // test修正しました。
 
         // ２) クリック処理
         btn.setOnClickListener {
